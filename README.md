@@ -1,2 +1,1 @@
-# dh
-dh homework, etc.
+# DH
